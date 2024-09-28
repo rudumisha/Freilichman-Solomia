@@ -1,0 +1,68 @@
+img {
+    width: 600px;
+    height: 400px;
+  }
+  
+  .lolo {
+    width: 400px;
+    height: 200px;
+  }
+  
+  p {
+    font-size: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+    color:aqua ;
+    background-color:blue ;
+    font-size: 50px;
+  }
+  
+  h2 {
+    text-align: center;
+    color:aqua;
+    background-color:blue;
+    font-size: 35px;
+  }
+  
+  table {
+    font-size: 40px;
+  }
+  
+  .lala {
+    font-size: 30px;
+    color: rgb(9, 109, 109);
+  }
+  
+  h3 {
+    font-size: 30px;
+    color:aqua;
+    background-color:blue;
+  }
+  
+  h4 {
+    font-size: 25px;
+    color:aqua;
+    background-color:blue;
+    text-align: center;
+  }
+  
+  a {
+    color: blue;
+    background-color: blanchedalmond;
+  }
+  
+  body {
+    background-color: aquamarine;
+  }
+  
+  main p {
+    text-align: center ;
+  }
+  
+  table{
+    margin: 0 auto;
+    font-size: 25px;
+  }
+  
